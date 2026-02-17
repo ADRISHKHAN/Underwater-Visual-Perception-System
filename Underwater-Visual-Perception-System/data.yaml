@@ -1,0 +1,19 @@
+# YOLOv8 Dataset Configuration File
+
+# Path to dataset parent directory
+path: ../data  # dataset root dir
+
+# Train/Val/Test sets (relative to 'path')
+train: images/train  
+val: images/val      
+test:               
+# Classes
+names:
+
+
+
+  0: plastic_bag
+  1: bottle
+  2: can
+  3: rope
+  4: fish_net
