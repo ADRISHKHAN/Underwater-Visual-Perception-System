@@ -1,6 +1,6 @@
-# 🌊 Diya: Underwater Trash Detection System
+# 🌊  Underwater Trash Detection System
 
-Diya is a real-time visual perception system designed for AUVs (Autonomous Underwater Vehicles) and ROVs (Remotely Operated Vehicles). It combines advanced image enhancement with state-of-the-art object detection to identify marine debris in challenging underwater environments.
+A real-time visual perception system designed for AUVs (Autonomous Underwater Vehicles) and ROVs (Remotely Operated Vehicles). It combines advanced image enhancement with state-of-the-art object detection to identify marine debris in challenging underwater environments.
 
 ## 🚀 Features
 
@@ -36,3 +36,4 @@ streamlit run app.py
 ## 📄 License
 
 This project is open-source and available under the MIT License.
+
